@@ -13,6 +13,14 @@ It uses:
 > Important: this does **not** predict the future. It produces plausible scenarios under the model,
 > which can be wrong. Not financial advice.
 
+## Screenshots
+
+**Sony (6758.T) — Neural vs Permutation baseline**
+![Sony fan chart and return distribution](assets/screenshot_sony.png)
+
+**NVDA — Neural vs Permutation baseline**
+![NVDA fan chart and return distribution](assets/screenshot_nvda.png)
+
 ## Quick start
 
 ```bash
