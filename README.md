@@ -1,4 +1,4 @@
-# Neural Permutation Stock Simulator (JP + US)
+# Neural Permutation Stock Simulator (JP and US Stock Market)
 
 This is an **educational / research** project that generates *simulated* future price paths for stocks.
 It uses:
