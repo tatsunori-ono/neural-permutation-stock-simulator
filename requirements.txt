@@ -1,0 +1,6 @@
+streamlit>=1.30
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.23
+matplotlib>=3.7
+torch>=2.0
